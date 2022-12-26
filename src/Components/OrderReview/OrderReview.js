@@ -1,11 +1,11 @@
-import React from 'react';
+import React from "react";
 
 const OrderReview = () => {
-    return (
-        <div>
-            <h2>i am order review</h2>
-        </div>
-    );
+  return (
+    <div>
+      <h2>order review</h2>
+    </div>
+  );
 };
 
 export default OrderReview;
